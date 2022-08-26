@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dev.foysal@gmail.com**
 
-- 📞 How to contact me **+880 1688-784-568**, **+880 1911-252-672** 
+- 📞 How to contact me **+8801688784568**, **+8801911252672** 
 
 - 📄 Know about my experiences [https://github.com/devFoysal/devFoysal/blob/main/resume.pdf](https://github.com/devFoysal/devFoysal/blob/main/resume.pdf)
 

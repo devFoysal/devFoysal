@@ -9,7 +9,7 @@
 
 - 📞 How to contact me **+8801688784568**, **+8801911252672** 
 
-- 📄 Know about my experiences [https://github.com/devFoysal/devFoysal/blob/main/resume.pdf](https://github.com/devFoysal/devFoysal/blob/main/resume.pdf)
+- 📄 Know about my experiences [https://github.com/devFoysal/devFoysal/blob/main/resume.pdf](resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

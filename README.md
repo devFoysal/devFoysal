@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Foysal Mahmud</h1>
 <h3 align="center">A professional full stack software developer from Bangladesh</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=devfoysal&label=Profile%20views&color=0e75b6&style=flat" alt="devfoysal" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devfoysal&label=Profile%20views&color=0e75b6&style=flat" alt="devfoysal" /> </p>
 
-- 💬 Ask me about **React, React Native, Nextjs, Laravel, Django and Expressjs** - 📫 How to reach me **dev.foysal@gmail.com** - 📄 Know about my experiences
-  [https://github.com/devFoysal/devFoysal/blob/main/resume.pdf](https://github.com/devFoysal/devFoysal/blob/main/resume.pdf)
+- 💬 Ask me about **React, React Native, Nextjs, Laravel, Django and Expressjs**
+
+- 📫 How to reach me **dev.foysal@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/devFoysal/devFoysal/blob/main/resume.pdf](https://github.com/devFoysal/devFoysal/blob/main/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<p align="left">
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devfoysal&label=Profile%20views&color=0e75b6&style=flat" alt="devfoysal" /> </p>
 
-- 💬 Ask me about **React, React Native, Nextjs, Laravel, Django and Expressjs**
+- 💬 Ask me about **React, React Native, Nextjs, Vuejs, Laravel and Expressjs**
 
 - 📫 How to reach me **dev.foysal@gmail.com**
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Foysal Mahmud</h1>
-<h3 align="center">A professional full stack software developer from Bangladesh</h3>
+<h3 align="center">I'm a Full Stack Software Engineer, I have 4+ years of experience in this industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devfoysal&label=Profile%20views&color=0e75b6&style=flat" alt="devfoysal" /> </p>
 
-- 💬 Ask me about **React, React Native, Nextjs, Vuejs, Laravel and Expressjs**
+- 💬 Ask me about **Laravel, Nodejs, Expressjs, MySQL, React, React Native, Nextjs, Vuejs, Redux, Git, Trello.**
 
 - 📫 How to reach me **dev.foysal@gmail.com**
 

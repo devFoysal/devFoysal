@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devfoysal&label=Profile%20views&color=0e75b6&style=flat" alt="devfoysal" /> </p>
 
-- 💬 Ask me about **Laravel, NestJS, MySQL, PostgreSQL, React, NextJS, VueJS, Redux, Git, Docker, AWS**
+- 💬 Ask me about **Node.js, MySQL, PostgreSQL, React, NextJS, Redux, Git**
 
 - 📫 How to reach me **dev.foysal@gmail.com**
 

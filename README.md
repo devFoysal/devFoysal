@@ -26,10 +26,6 @@
 
 ## Selected work
 
-### [PingBar](https://github.com/devFoysal/PingBar)
-
-Native macOS menu bar utility built with Swift and AppKit. Reads Dock notification badges through the macOS Accessibility API and displays unread counts at a glance.
-
 ### Waadaa.Insure
 
 InsurTech backend for policy issuance, payment processing, claims workflows, JWT authentication, and AWS deployment.

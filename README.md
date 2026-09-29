@@ -30,17 +30,21 @@
 
 ## Selected work
 
-### Waadaa.Insure
+### [Waadaa.Insure](https://www.waadaa.insure/)
 
-InsurTech backend for policy issuance, payment processing, claims workflows, JWT authentication, and AWS deployment.
+Digital insurance platform designed to simplify quotes, policy management, and customer insurance workflows. The system includes policy issuance, payments, claims processes, secure authentication, and cloud-hosted services.
 
-### Beautiv
+### [Beautiv](https://www.beautiv.com/)
 
-Multi-vendor e-commerce platform covering product catalogs, cart and transaction flows, PostgreSQL data modeling, Redis caching, and S3 asset storage.
+Luxury beauty e-commerce platform featuring 200+ international brands, current offers, new arrivals, best sellers, curated product collections, and online ordering. The product includes catalog, cart, transaction, search, media-storage, and performance-focused backend workflows.
 
-### Showtalent
+### [Showtalent](https://www.showtalent.org/)
 
-Digital community platform with scoring algorithms, product sales, role-based permissions, REST APIs, and production hosting.
+Content and digital community platform supporting news, opinions, videos, images, e-books, classifieds, advertisements, talent discovery, and editor-curated content. The platform includes scoring, digital product sales, permissions, and content-management workflows.
+
+### [Beauty Hub](https://beautyhub.com.bd/)
+
+Bangladesh-focused beauty commerce platform with product discovery, categories, flash sales, coupons, wishlists, carts, secure checkout, order history, and order tracking for skincare, makeup, grooming, and personal-care products.
 
 ## Engineering focus
 

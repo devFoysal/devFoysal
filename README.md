@@ -16,6 +16,10 @@
 - Interested in backend-focused full stack, Laravel/PHP, Node.js, and product engineering roles.
 - Based in Dhaka, Bangladesh; open to onsite, hybrid, and remote opportunities.
 
+## Resume
+
+[View or download my CV](https://github.com/devFoysal/devFoysal/blob/main/resume.pdf)
+
 ## Core stack
 
 **Backend:** PHP, Laravel, Node.js, NestJS, REST APIs, JWT, OAuth2, WebSockets  

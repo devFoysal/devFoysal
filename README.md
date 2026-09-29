@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Md Foysal 👋</h1>
 
 <p align="center">
-  <strong>Backend Engineer · Laravel · PHP · Node.js · MySQL · AWS</strong>
+  <strong>Backend-Focused Full Stack Engineer · Laravel · Node.js · Next.js · AWS</strong>
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
 
 ## About me
 
-- Backend-focused engineer working across API design, data modeling, authentication, caching, and deployment.
+- Backend-focused full stack engineer working across API design, data modeling, authentication, caching, deployment, and modern web interfaces.
 - Experienced with Laravel/PHP, Node.js, MySQL, PostgreSQL, Redis, Docker, and AWS.
 - Comfortable connecting backend services with Next.js and React applications.
-- Interested in Backend Engineer, Laravel/PHP, Node.js, and full-stack product roles.
+- Interested in backend-focused full stack, Laravel/PHP, Node.js, and product engineering roles.
 - Based in Dhaka, Bangladesh; open to onsite, hybrid, and remote opportunities.
 
 ## Core stack
@@ -53,5 +53,5 @@ I care about clear API contracts, maintainable code, practical performance impro
 - GitHub: [@devFoysal](https://github.com/devFoysal)
 
 <p align="center">
-  <i>Open to backend engineering opportunities and thoughtful collaborations.</i>
+  <i>Open to backend-focused full stack opportunities and thoughtful collaborations.</i>
 </p>

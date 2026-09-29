@@ -1,52 +1,61 @@
-<h1 align="center">Hi 👋, I'm Foysal Mahmud</h1>
-<h3 align="center">Seasoned Full Stack Engineer with a passion for building modern, scalable, and high-performance web applications. Proficient in
-JavaScript, TypeScript, React, Next.js, and Node.js, with strong experience in creating responsive, user-centric interfaces and
-seamless digital experiences. Skilled in translating complex business requirements into intuitive and maintainable frontend
-solutions while ensuring performance, accessibility, and code quality.</h3>
+<h1 align="center">Hi, I'm Md Foysal 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devfoysal&label=Profile%20views&color=0e75b6&style=flat" alt="devfoysal" /> </p>
-
-- 🔭 I'm currently working on **fintech and enterprise platforms using React, TypeScript, and Next.js**
-
-- 👯 I'm looking to collaborate on **frontend-heavy full stack projects**
-
-- 💬 Ask me about **React, TypeScript, Next.js, Redux, REST APIs, Node.js, MySQL, PostgreSQL**
-
-- 📫 How to reach me **dev.foysal@gmail.com**
-
-- 📞 Contact me **+8801688784568**, **+8801911252672**
-
-- 📄 Know about my experiences [see resume](https://github.com/devFoysal/devFoysal/blob/main/resume.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <strong>Backend Engineer · Laravel · PHP · Node.js · MySQL · AWS</strong>
 </p>
 
-<h3 align="left">Frontend Core:</h3>
-<p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
+<p align="center">
+  I build reliable APIs, database-driven products, and production-ready cloud services.
 </p>
 
-<h3 align="left">Backend & Database:</h3>
-<p align="left">
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" /> </a>
-    <a href="https://www.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="nestjs" width="40" height="40" /> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
-</p>
+## About me
 
-<h3 align="left">Tools & Others:</h3>
-<p align="left">
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-</p>
+- Backend-focused engineer working across API design, data modeling, authentication, caching, and deployment.
+- Experienced with Laravel/PHP, Node.js, MySQL, PostgreSQL, Redis, Docker, and AWS.
+- Comfortable connecting backend services with Next.js and React applications.
+- Interested in Backend Engineer, Laravel/PHP, Node.js, and full-stack product roles.
+- Based in Dhaka, Bangladesh; open to onsite, hybrid, and remote opportunities.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devfoysal&" alt="devfoysal" /></p>
+## Core stack
+
+**Backend:** PHP, Laravel, Node.js, NestJS, REST APIs, JWT, OAuth2, WebSockets  
+**Data:** MySQL, PostgreSQL, Redis, indexing, query optimization, schema design  
+**Cloud & DevOps:** AWS EC2, S3, Route 53, Nginx, Docker, Linux, GitHub Actions, CI/CD  
+**Frontend integration:** Next.js, React, JavaScript, TypeScript, Redux Toolkit, Tailwind CSS  
+**Workflow:** Git, Postman, Swagger/OpenAPI, production troubleshooting
+
+## Selected work
+
+### [PingBar](https://github.com/devFoysal/PingBar)
+
+Native macOS menu bar utility built with Swift and AppKit. Reads Dock notification badges through the macOS Accessibility API and displays unread counts at a glance.
+
+### Waadaa.Insure
+
+InsurTech backend for policy issuance, payment processing, claims workflows, JWT authentication, and AWS deployment.
+
+### Beautiv
+
+Multi-vendor e-commerce platform covering product catalogs, cart and transaction flows, PostgreSQL data modeling, Redis caching, and S3 asset storage.
+
+### Showtalent
+
+Digital community platform with scoring algorithms, product sales, role-based permissions, REST APIs, and production hosting.
+
+## Engineering focus
+
+```text
+API design → data modeling → implementation → testing → deployment → monitoring
+```
+
+I care about clear API contracts, maintainable code, practical performance improvements, and dependable production systems.
+
+## Connect
+
+- Email: [dev.foysal@gmail.com](mailto:dev.foysal@gmail.com)
+- LinkedIn: [foysal-mahmud](https://www.linkedin.com/in/foysal-mahmud-6a4bba18a/)
+- GitHub: [@devFoysal](https://github.com/devFoysal)
+
+<p align="center">
+  <i>Open to backend engineering opportunities and thoughtful collaborations.</i>
+</p>
